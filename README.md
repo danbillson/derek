@@ -1,3 +1,13 @@
+# Derek
+
+A simple app for creating and organizing sports sessions
+
+## Motivation
+
+Recently, I started playing volleyball and found a group that organized sessions just for fun, the solution for booking your slot was done by copy and pasting a big pile of text, adding your name to the team and position you want and then pasting it back into the chat, when the session is first announced there is mayhem so we need something better.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
