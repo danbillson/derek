@@ -20,11 +20,9 @@ Make sure you have the following tools installed:
 For auth we are using [Clerk](https://clerk.com/), you will need to create an account and get your API keys.
 You will need to enable email/password and google sign in and then add the username and name options to the user.
 
-Clone the repository and install the dependencies:
+Fork and clone the repo and install the dependencies:
 
 ```bash
-git clone git@github.com:danbillson/derek.git
-cd derek
 pnpm i
 ```
 
