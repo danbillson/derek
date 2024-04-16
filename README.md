@@ -20,6 +20,8 @@ Make sure you have the following tools installed:
 For auth we are using [Clerk](https://clerk.com/), you will need to create an account and get your API keys.
 You will need to enable email/password and google sign in and then add the username and name options to the user.
 
+For the database we are using [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres), you can follow along with the [quickstart](https://vercel.com/docs/storage/vercel-postgres/quickstart#quickstart) to create your own free database and get the POSTGRES_URL env var which will replace the `DB_URL` in your `.env.local` file.
+
 Fork and clone the repo and install the dependencies:
 
 ```bash
